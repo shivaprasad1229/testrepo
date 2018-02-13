@@ -1,2 +1,2 @@
-This is the new file created for conflicting to happen  --its me
 
+This is the new file created for conflicting to happen
